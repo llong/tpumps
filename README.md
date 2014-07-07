@@ -1,0 +1,1 @@
+This project has been abandoned. I'll be rebuilding it using Ionic JS and incorporating Flickr and Google Maps APIs.
