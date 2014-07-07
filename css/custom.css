@@ -1,0 +1,32 @@
+html {
+	font-family: 'arial', 'helvetica', sans-serif;
+}
+
+#home, #menu {
+	background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+}
+
+#locations li img {
+	top: 10%;
+	bottom: 10%;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+
+img {
+  width: 90%;
+  max-width: 90%;
+}
+
+h1,h2,h3,h4 {
+	margin-bottom: 5px;
+	font-weight: 300;
+}
+
+h2 {
+	color: #009748;
+}
+
+.ui-header img {
+	margin: 5px;
+}
